@@ -77,7 +77,7 @@ jupyter notebook exploration.ipynb
 
 **[Dereger325]**  
 Learning ML through project-based approach  
-[Month/Year]
+ 2026/02/15
 
 ---
 
