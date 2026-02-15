@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Data files (too large for git)
+*.csv
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Mac files
+.DS_Store
+
+# Models (can be large)
+*.pkl
+*.h5
+models/
